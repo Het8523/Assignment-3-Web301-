@@ -16,4 +16,6 @@ Added 3 different Bootstrap Components to contain and display from assignment 2.
 
 Added 2 additional Bootstrsap Components to page.
 
+Finally i was facing an App problem my visual was not supporting the changes.
+
 
